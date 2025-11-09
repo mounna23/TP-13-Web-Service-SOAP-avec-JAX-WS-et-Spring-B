@@ -18,11 +18,11 @@ La structure finale du projet est la suivante :
 
 ## Tester le Service SOAP avec SoapUI
 
-le fichier WSDL :
+#### le fichier WSDL :
 
 <img width="2940" height="1908" alt="image" src="https://github.com/user-attachments/assets/d2c69fc6-a834-4680-bf77-39c747c72b70" />
 
-Tester les Méthodes du Service SOAP : 
+#### Tester les Méthodes du Service SOAP : 
 
  1. Tester la Méthode getComptes :
 <img width="2940" height="1708" alt="image" src="https://github.com/user-attachments/assets/96e08634-4011-4474-b2ab-ab0e9fd57517" />
