@@ -9,10 +9,11 @@ Gérer des entités JPA dans un contexte de service web.
 ## Prérequis
 Préparer :
 
-Un environnement de développement Java (Java 20 recommandé).
-Maven pour la gestion des dépendances.
-Une connaissance de base en Spring Boot et en services SOAP.
-La structure finale du projet est la suivante :
+- Un environnement de développement Java (Java 20 recommandé).
+- Maven pour la gestion des dépendances.
+- Une connaissance de base en Spring Boot et en services SOAP.
+  
+##### La structure finale du projet est la suivante :
 
 <img width="1062" height="1908" alt="image" src="https://github.com/user-attachments/assets/4348009c-a3e2-4c8c-a853-b22f8f176350" />
 
